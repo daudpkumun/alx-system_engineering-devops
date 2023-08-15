@@ -1,0 +1,2 @@
+#!/bin/bashcat
+cat /etc/passwd
